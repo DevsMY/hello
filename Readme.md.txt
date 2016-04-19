@@ -1,3 +1,3 @@
-This is an empty initial Android app repository
+This is an empty initial Android app repository for development branch
 
 I am testing changing the read me.
