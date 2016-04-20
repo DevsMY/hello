@@ -8,4 +8,4 @@ Sync development to master
 
 Yet another test on Readme file.
 
-I am working on issue #5
+I am working on issue and close #5
